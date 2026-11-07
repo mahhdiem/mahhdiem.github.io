@@ -1,13 +1,6 @@
 # Social links shown on the website
 cv_pdf: /assets/pdf/Seyed_Mahdi_Ebrahimi_Mousavi_CV.pdf
 email: Mahdiebrahimimousavi@gmail.com
+linkedin_username: seyed-mahdi-ebrahimi-mousavi
+github_username: mahhdiem
 rss_icon: false
-custom_social:
-  linkedin:
-    logo: "fab fa-linkedin"
-    title: LinkedIn
-    url: https://www.linkedin.com/in/seyed-mahdi-ebrahimi-mousavi/
-  github:
-    logo: "fab fa-github"
-    title: GitHub
-    url: https://github.com/mahhdiem
