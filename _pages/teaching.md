@@ -2,14 +2,31 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching experience at the University of Tehran.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching experience
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**Head Teaching Assistant — Statistics and Probability**  
+University of Tehran · Instructor: Prof. Mahdi Zahraei  
+*March 2026 – Present*
 
-{% include courses.liquid %}
+- Lead the teaching assistant team and coordinate academic support.
+- Develop assignments, practice problems, and instructional materials.
+- Support students in understanding probability and statistics.
+
+**Teaching Assistant — Civil Engineering Systems Analysis**  
+University of Tehran · Instructor: Prof. Reza Kerachian  
+*March 2026 – Present*
+
+- Support students in systems analysis, optimization, and quantitative problem-solving.
+- Provide guidance through problem-solving sessions and course activities.
+
+**Teaching Assistant — Engineering Economy**  
+University of Tehran · Instructor: Dr. Navid Khademi  
+*March 2026 – Present*
+
+- Conduct problem-solving sessions and provide academic support.
+- Design and grade assignments and assist with course projects and instructional materials.
