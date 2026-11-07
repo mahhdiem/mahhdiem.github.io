@@ -8,7 +8,7 @@ subtitle: M.Sc. Student in Transportation Engineering · University of Tehran
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
     <p>Tehran, Iran</p>
     <p><a href="mailto:Mahdiebrahimimousavi@gmail.com">Mahdiebrahimimousavi@gmail.com</a></p>
