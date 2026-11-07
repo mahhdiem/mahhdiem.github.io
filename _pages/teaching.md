@@ -10,7 +10,7 @@ nav_order: 4
 ## Teaching experience
 
 **Head Teaching Assistant — Statistics and Probability**  
-University of Tehran · Instructor: Prof. Mahdi Zahraei  
+University of Tehran · Instructor: [Prof. Mahdi Zahraei](https://scholar.google.com/citations?user=UU9blccAAAAJ&hl=en)  
 *March 2026 – Present*
 
 - Lead the teaching assistant team and coordinate academic support.
@@ -18,14 +18,14 @@ University of Tehran · Instructor: Prof. Mahdi Zahraei
 - Support students in understanding probability and statistics.
 
 **Teaching Assistant — Civil Engineering Systems Analysis**  
-University of Tehran · Instructor: Prof. Reza Kerachian  
+University of Tehran · Instructor: [Prof. Reza Kerachian](https://scholar.google.com/citations?user=LQQfyFsAAAAJ&hl=en)  
 *March 2026 – Present*
 
 - Support students in systems analysis, optimization, and quantitative problem-solving.
 - Provide guidance through problem-solving sessions and course activities.
 
 **Teaching Assistant — Engineering Economy**  
-University of Tehran · Instructor: Dr. Navid Khademi  
+University of Tehran · Instructor: [Dr. Navid Khademi](https://scholar.google.com/citations?user=xXaRf2QAAAAJ&hl=en)  
 *March 2026 – Present*
 
 - Conduct problem-solving sessions and provide academic support.
