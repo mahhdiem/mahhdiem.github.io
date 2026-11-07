@@ -30,11 +30,12 @@ nav_order: 5
 Computer Vision; Feature Engineering; Data Cleaning; Data Visualization; Pandas; Python; Intro to Programming; Intro to Deep Learning; Intermediate Machine Learning; Intro to Machine Learning.
 
 ### Coursera
-- Machine Learning — Stanford University
-- Advanced Learning Algorithms — DeepLearning.AI
-- Supervised Machine Learning: Regression and Classification — DeepLearning.AI
-- Unsupervised Learning, Recommenders, and Reinforcement Learning — DeepLearning.AI
-- Fundamentals of Reinforcement Learning — University of Alberta
+
+- [Machine Learning — Stanford University](https://www.coursera.org/account/accomplishments/specialization/1BX07B69YO7R)
+- [Advanced Learning Algorithms — DeepLearning.AI](https://www.coursera.org/account/accomplishments/records/S3FVCWY1FAJR)
+- [Supervised Machine Learning: Regression and Classification — DeepLearning.AI](https://www.coursera.org/account/accomplishments/verify/1XQNFR5MV84Q)
+- [Unsupervised Learning, Recommenders, and Reinforcement Learning — DeepLearning.AI](https://www.coursera.org/account/accomplishments/verify/7R2S63U549DB)
+- [Fundamentals of Reinforcement Learning — University of Alberta](https://www.coursera.org/account/accomplishments/verify/T50M7J40H5OB)
 
 ### EPFLx (edX) — In progress
 - Introduction to Discrete Choice Models
