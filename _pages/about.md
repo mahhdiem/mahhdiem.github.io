@@ -7,7 +7,7 @@ subtitle: M.Sc. Student in Transportation Engineering · University of Tehran
 
 profile:
   align: right
-  image: ""
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Tehran, Iran</p>
