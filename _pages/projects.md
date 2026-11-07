@@ -7,6 +7,13 @@ nav: true
 nav_order: 2
 ---
 
+## Research interests
+
+- Human behavior in transportation
+- Virtual-reality-based behavioral experiments
+- AI-assisted emergency evacuation
+- Statistical analysis and machine learning
+
 ## Ongoing research
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
