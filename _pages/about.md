@@ -22,8 +22,12 @@ latest_posts:
   enabled: false
 ---
 
-I am an M.Sc. student in **Transportation Engineering at the University of Tehran**, with a background in civil engineering. My academic interests lie at the intersection of human behavior, transportation, virtual reality, artificial intelligence, and data-driven methods.
+I am an M.Sc. student in **Transportation Engineering at the University of Tehran**, where I also completed my B.Sc. in Civil Engineering. My academic work brings together transportation, human behavior, virtual reality, and data-driven methods.
 
-My current research examines how an AI assistant may shape the perceptual and cognitive behavior of people during emergency evacuation in a virtual-reality environment. I am also a research assistant at the Computer Graphics & Computational (CGC) Laboratory and teach undergraduate courses at the University of Tehran.
+My current master's research explores the perceptual-cognitive aspects of population emergency evacuation in a virtual-reality environment in the presence of an AI assistant. I work as a Research Assistant at the Computer Graphics & Computational (CGC) Laboratory at the University of Tehran under the supervision of Dr. Navid Khademi.
+
+Alongside research, I have served as a teaching assistant in statistics and probability, civil engineering systems analysis, and engineering economy. I have also been involved in student scientific associations, academic publishing, and TEDx events.
 
 **Research interests:** human behavior in transportation; VR-based behavioral experiments; AI-assisted emergency evacuation; statistical analysis; and machine learning.
+
+**Education:** M.Sc. in Transportation Engineering (GPA: 18.61/20); B.Sc. in Civil Engineering (GPA: 17.14/20, rank 9/93).
